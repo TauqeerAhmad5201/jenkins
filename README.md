@@ -7,3 +7,5 @@ Required is: Java SDK/JDK
 Basic Port for Jenkins: 8080
 
 ![Jenkins Portal](portal-page.png)
+
+For connection b/w Jenkins and GitHub : SSH Key is provided. 
